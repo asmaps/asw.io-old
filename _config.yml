@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: "AS Wwebservices"
+email: "info@as-webservices.de"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://www.as-webservices.de/" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: "asmaps"
+github_username: "asmaps"
 
 # Build settings
 markdown: kramdown
